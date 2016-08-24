@@ -14,8 +14,6 @@
 </head>
 <body>
 
-    <?php dd(Request::url(), Request::segment(1), Request::segment(2)) ?>
-
     <header>
         <nav>
             <ul>
